@@ -55,5 +55,7 @@ The MMSP manual is a work in progress. It is currently the only source for detai
 
 The administrators for the MMSP source code are Jason Gruber (gruberja@gmail.com) and Trevor Keller (trevor.keller@gmail.com). Please do not hesitate to send questions or comments.
 
+*Funding Acknowledgements*
 
-This work was supported in part by the US NSF under award #1056704 through the Metals and Metallic Nanostructures Program, Division of Materials Research. 
+* This work was supported in part by the US NSF under award #1056704 through the Metals and Metallic Nanostructures Program, Division of Materials Research. 
+* This work was supported in part by the US NSF under award #1334283 through the Civil, Mechanical and Manufacturing Innovation division under the Designing Materials to Revolutionize and Engineer our Future (DMREF) program.
